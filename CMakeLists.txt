@@ -4,5 +4,5 @@ project(camion C)
 set(CMAKE_C_STANDARD 11)
 
 
-add_executable(camion tp2.c)
+add_executable(camion metrosegment.c)
 
